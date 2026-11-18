@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consola</string>
+    <style name="Consola" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:colorAccent">#FFB13B</item>
+    </style>
+    <color name="fondo">#141821</color>
+</resources>
